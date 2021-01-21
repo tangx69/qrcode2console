@@ -18,7 +18,7 @@ import (
 * @Function: 二维码输出到console
  */
 const (
-	QR_CODE_SIZE        = 256
+	QR_CODE_SIZE        = 64
 	SHRINK_QR_CODE_SIZE = 35
 	MARGIN              = 29
 	MULTIPLE            = 6
