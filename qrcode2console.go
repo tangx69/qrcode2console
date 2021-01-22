@@ -18,10 +18,10 @@ import (
 * @Function: 二维码输出到console
  */
 const (
-	QR_CODE_SIZE        = 256
+	QR_CODE_SIZE        = 128
 	SHRINK_QR_CODE_SIZE = 35
 	MARGIN              = 29
-	MULTIPLE            = 2
+	MULTIPLE            = 6
 )
 
 type QRCode2Console struct {
